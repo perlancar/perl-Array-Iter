@@ -64,6 +64,13 @@ Caveat: if list/array contains an C<undef> element, it cannot be distinguished
 with an exhausted iterator.
 
 
+=head1 FUNCTIONS
+
+=head2 array_iter($aryref) => coderef
+
+=head2 list_iter(@elems) => coderef
+
+
 =head1 SEE ALSO
 
 L<Array::Iterator>, which also lists some other related modules.
