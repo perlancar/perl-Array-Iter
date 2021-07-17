@@ -1,6 +1,8 @@
 package Array::Iter;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use strict;
@@ -73,6 +75,7 @@ with an exhausted iterator.
 
 =head1 SEE ALSO
 
-L<Array::Iterator>, which also lists some other related modules.
+L<Array::Iterator>, which creates (several kinds of) iterator objects. The
+module also lists some other related modules.
 
 =cut
