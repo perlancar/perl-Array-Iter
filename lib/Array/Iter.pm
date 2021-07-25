@@ -78,4 +78,7 @@ with an exhausted iterator.
 L<Array::Iterator>, which creates (several kinds of) iterator objects. The
 module also lists some other related modules.
 
+Other C<*::Iter> modules to create simple (coderef) iterator: L<Range::Iter>,
+L<IntRange::Iter>, L<NumSeq::Iter>.
+
 =cut
